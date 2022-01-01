@@ -1,0 +1,29 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xg-wang/ts-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xg-wang/ts-playground/issues"
+  },
+  "homepage": "https://github.com/xg-wang/ts-playground#readme",
+  "volta": {
+    "node": "16.13.1",
+    "yarn": "1.22.17"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.6",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4"
+  }
+}
